@@ -1,4 +1,4 @@
 ## Hi there 👋
 
-this is my gfirst repository
+this is my first repository
 author  - thanveer
